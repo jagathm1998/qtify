@@ -29,5 +29,6 @@ function SearchBar() {
         </button>
     </form>
     
+    
 }
 export default SearchBar;
