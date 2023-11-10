@@ -3,14 +3,18 @@
    justify-content: center;
    align-items: center;
    height: 272px;
-   width: 100 vw;
+   width: 100%;
    background-color: var(--css-black);
 }
 
 .hs-content {
    display: flex;
    align-items: center;
+   text-align: center;
    color: var(--css-white);
+   font-family: Poppins;
+   font-weight: 600;
+   
 }
 
 .hs-img-frame {
