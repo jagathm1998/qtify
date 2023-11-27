@@ -1,0 +1,28 @@
+.faq-title {
+    color: var(--css-white);
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: Poppins;
+}
+
+.faq-container {
+   width: 1135px;
+   /* display: grid; */
+   justify-content: center;
+   margin-left: 98px;
+   color: var(--css-black) !important; 
+   /* border-radius: 1px; */
+ 
+}
+
+.accordion-one {
+    border-radius: 1px;
+    padding: 1px;
+}
+
+.accordion-two {
+    border-radius: 1px;
+    padding: 1px;
+}
