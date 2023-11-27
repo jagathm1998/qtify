@@ -20,7 +20,8 @@ function Section({title, data, navId}) {
                  key={cardData.id}
                  imgSrc={cardData.image}
                  label={cardData.title}
-                 followersCount={cardData.follows}/>
+                 followersCount={cardData.follows}
+                 tooltipText="42 songs" />
             )}
         </div>}
     </div>
